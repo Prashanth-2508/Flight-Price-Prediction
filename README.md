@@ -10,7 +10,7 @@ It contains the train.xlsx excel format file contains the data related Airlines 
 ## Problem type :
 Continuous changing the prices /fare of the flights depends on the various parameters. Price is the ground truth variable and independent variables for this dataset based on those parameters price is decided, so price is not fixed with one variable it is continuously changing.
 
-Hence this problem is Regression Problem.
+Hence this problem is **Regression Problem**.
 
 ##  Used Tools :
     1. Jupyter Notebook.
@@ -33,11 +33,11 @@ Building the various models, We train the model on various supervised regression
 ### Testing the Models
 Testing the model by best models as mentioned as above.
 Hyperparamter tuning the algorithms by Random search.
-We got the best score by XGBoost and Random forest algorithms
+We got the best score by ***XGBoost and Random forest*** algorithms
 
 ### Performance of model
 Evaluating the model by performance metrics to pick the best model accurately predicting the truth variables based on the train set.
-After all performing the model we got the 0.843 score and R2 error of 0.857
+After all performing the model we got the **0.843 score and R2 error of 0.857**
 
 ### Storing the Model
 Store the model into standard format like JSON, PICKLE, SQL etc for the further process like building the web APIs or model deployments and testing.
