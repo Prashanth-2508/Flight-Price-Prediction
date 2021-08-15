@@ -1,5 +1,5 @@
 # FLIGHT PRICE PREDICTION
-**To predict flight fare charges of various airlines.**
+**To predict flight fare of various airlines.**
 
 Airline companies use complex algorithms to calculate the flight prices for given various factors present at the particular time. These methods take financial, marketing and various social factors into account to predict flight fares.
 Nowadays the number of people using flights has increased significantly. It is difficult for airlines to maintain prices since prices changes dynamically due to different factors. That’s why we try to use machine learning to solve this problem. This can help airlines by predicting what prices they can maintain. It can also help the customers to predict future flight prices and plan their journey accordingly.
