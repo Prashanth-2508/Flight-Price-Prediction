@@ -4,7 +4,7 @@
 Airline companies use complex algorithms to calculate the flight prices for given various factors present at the particular time. These methods take financial, marketing and various social factors into account to predict flight fares.
 Nowadays the number of people using flights has increased significantly. It is difficult for airlines to maintain prices since prices changes dynamically due to different factors. That’s why we try to use machine learning to solve this problem. This can help airlines by predicting what prices they can maintain. It can also help the customers to predict future flight prices and plan their journey accordingly.
 
-![alt text](<./Data/flight.JPG>)
+![](<./Data/flight.JPG>)
 
 ## Data Overview:
 It contains the train.xlsx excel format file contains the data related Airlines prices based on the various parameters.
@@ -44,7 +44,7 @@ We got the best score by ***XGBoost and Random forest*** algorithms
 Evaluating the model by performance metrics to pick the best model accurately predicting the truth variables based on the train set.
 After all performing the model we got the **0.843 score and R2 error of 0.857**
 
-
+![](<.result.png>)
 
 ### Storing the Model
 Store the model into standard format like JSON, PICKLE, SQL etc for the further process like building the web APIs or model deployments and testing.
