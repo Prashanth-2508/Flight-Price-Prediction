@@ -43,5 +43,10 @@ We got the best score by ***XGBoost and Random forest*** algorithms
 Evaluating the model by performance metrics to pick the best model accurately predicting the truth variables based on the train set.
 After all performing the model we got the **0.843 score and R2 error of 0.857**
 
+![](result.png)
+
 ### Storing the Model
 Store the model into standard format like JSON, PICKLE, SQL etc for the further process like building the web APIs or model deployments and testing.
+
+## References
+Krish Naik youtube classes
