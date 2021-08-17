@@ -47,3 +47,6 @@ Store the model into standard format like JSON, PICKLE, SQL etc for the further 
 
 ## References
 Krish Naik youtube classes
+
+#### Project post (video): 
+https://www.linkedin.com/posts/prashanth-kumar-g-v-7b5a34147_machinelearningsolutions-activity-6833204840324313088-i-DR
